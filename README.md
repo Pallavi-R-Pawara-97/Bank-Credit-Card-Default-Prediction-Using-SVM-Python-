@@ -26,4 +26,3 @@
 #### •	Previous_Payment_May: Amount of previous payment in May (In dollar) 
 #### •	Previous_Payment_June: Amount of previous payment in June (In dollar) 
 #### •	Default_Payment: Default payment of next month (1=yes, 0=no) 
-Evaluation Parameters 
