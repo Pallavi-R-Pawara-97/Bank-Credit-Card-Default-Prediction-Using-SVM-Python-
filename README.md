@@ -1,5 +1,5 @@
 ### Bank-Credit-Card-Default-Prediction-Using-SVM-Python-
-###Bank Credit Card Default Prediction :
+### Bank Credit Card Default Prediction :
 ### Data Description :
 #### •	Customer ID: Unique identification of each customer 
 #### •	Credit_Amount: Credit amount in dollars 
